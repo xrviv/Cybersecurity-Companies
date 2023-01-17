@@ -18,6 +18,9 @@ Source: Google
 ### Israel
 
 - [1touch.io](https://1touch.io)
+- [Acid Technologies Ltd.](https://www.acid-tech.com/)
+- [Actifile](https://www.actifile.com/)
+
 
 ### Philippines
 
@@ -26,7 +29,10 @@ Source: Google
 - [TELUS International Philippines](http://www.telusinternational.com/)
 - [ANZ Banking Group](http://www.anz.com/)
 - [EY](https://careers.ey.com/ey/job/Taguig-Cyber-Security-Fresh-Graduate-Hiring-Program-1634/884457301/?feedId=338701)
-- [OpenIT Asia]()
+- [OpenIT Asia](https://talentit.openit.com/careers/)
+- [Xurpas Enterprise, Inc.](http://www.xurpasgroup.com/)
+- [TechnoGlobal Team](http://www.technoglobalteam.com/)
+
 
 #### Source: LinkedIn
 - [Emerson](http://www.emerson.com/)
